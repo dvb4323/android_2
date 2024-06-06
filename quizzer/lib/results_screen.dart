@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:quizzer/data/questions.dart';
-import 'package:quizzer/questions_summary.dart';
+import 'package:quizzer/questions_summary/questions_summary.dart';
 
 class ResultsScreen extends StatelessWidget {
   const ResultsScreen({
